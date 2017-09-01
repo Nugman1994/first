@@ -1,0 +1,10 @@
+C:\Users\Nugmann\Desktop\bin\Debug\netcoreapp2.0\Desktop.deps.json
+C:\Users\Nugmann\Desktop\bin\Debug\netcoreapp2.0\Desktop.runtimeconfig.json
+C:\Users\Nugmann\Desktop\bin\Debug\netcoreapp2.0\Desktop.runtimeconfig.dev.json
+C:\Users\Nugmann\Desktop\bin\Debug\netcoreapp2.0\Desktop.dll
+C:\Users\Nugmann\Desktop\bin\Debug\netcoreapp2.0\Desktop.pdb
+C:\Users\Nugmann\Desktop\obj\Debug\netcoreapp2.0\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Nugmann\Desktop\obj\Debug\netcoreapp2.0\Desktop.AssemblyInfoInputs.cache
+C:\Users\Nugmann\Desktop\obj\Debug\netcoreapp2.0\Desktop.AssemblyInfo.cs
+C:\Users\Nugmann\Desktop\obj\Debug\netcoreapp2.0\Desktop.dll
+C:\Users\Nugmann\Desktop\obj\Debug\netcoreapp2.0\Desktop.pdb
