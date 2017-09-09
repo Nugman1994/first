@@ -13,15 +13,7 @@ namespace p3_4
             int a = int.Parse(Console.ReadLine());
             for (int i = 2; i < a + 1; i++)
             {
-<<<<<<< HEAD
                 int a=1;
-                int b=1;
-=======
-                int cc=1;
-                int b=1;
-                int c=1;
->>>>>>> hotfix
-                }
             }
         }
     }
