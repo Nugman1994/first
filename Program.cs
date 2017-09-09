@@ -14,6 +14,8 @@ namespace p3_4
             for (int i = 2; i < a + 1; i++)
             {
                 int a=1;
+                int b=1;
+                int c=1;
                 }
             }
         }
