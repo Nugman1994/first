@@ -19,7 +19,8 @@ namespace p3_4
             for (int ц= 2; i < a + 1; i++)
             for (int у= 2; i < a + 1; i++)
             for (int к= 2; i < a + 1; i++)
-            эта прога с ошибокой v8
+            for (int е= 2; i < a + 1; i++)
+            эта прога с ошибокой v9
     	}
     }      
 }
