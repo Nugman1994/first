@@ -13,7 +13,8 @@ namespace p3_4
             int a = int.Parse(Console.ReadLine());
             for (int a = 2; i < a + 1; i++)
             for (int b= 2; i < a + 1; i++)
-            эта прога без ошибок v2
+            for (int с= 2; i < a + 1; i++)
+            эта прога без ошибок v3
     	}
     }      
 }
