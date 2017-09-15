@@ -11,8 +11,9 @@ namespace p3_4
         static void Main(string[] args)
         {
             int a = int.Parse(Console.ReadLine());
-            for (int i = 2; i < a + 1; i++)
-            эта прога без ошибок
+            for (int a = 2; i < a + 1; i++)
+            for (int b= 2; i < a + 1; i++)
+            эта прога без ошибок v2
     	}
     }      
 }
