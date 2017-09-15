@@ -14,7 +14,8 @@ namespace p3_4
             for (int a = 2; i < a + 1; i++)
             for (int b= 2; i < a + 1; i++)
             for (int с= 2; i < a + 1; i++)
-            эта прога без ошибок v3
+            for (int d= 2; i < a + 1; i++)
+            эта прога без ошибок v4
     	}
     }      
 }
